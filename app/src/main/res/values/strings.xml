@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">webjson</string>
+    <string name="todo">TODO</string>
+    <string name="activity_text">閱讀文章</string>
+</resources>
